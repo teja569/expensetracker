@@ -2,10 +2,7 @@
 
 A sleek and simple expense tracker built with **React Native** using **Expo**, designed to help users record, categorize, and visualize their daily spending.
 
-![Image](https://github.com/user-attachments/assets/8418dec3-f186-402e-a094-ab726c9bf036)
-![Image](https://github.com/user-attachments/assets/6df0760d-7653-4012-9494-ef931fadc017)
-
-![Image](https://github.com/user-attachments/assets/e8836a55-ac32-47f6-b521-9f4014cac4e9)
+![Image](https://github.com/user-attachments/assets/8344a530-2098-469d-a219-ec6f948980ad)
 ---
 
 ## 📱 Features
