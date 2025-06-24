@@ -35,3 +35,22 @@ git clone https://github.com/teja569/expensetracker
 cd expenso
 npm install
 npx expo start
+
+🛠 Folder Structure
+kotlin
+Copy code
+├── components/
+│   └── CategoryDropdown.js
+├── context/
+│   └── ExpenseContext.js
+├── data/
+│   └── categories.js
+├── screens/
+│   ├── DashboardScreen.js
+│   ├── ExpenseListScreen.js
+│   └── AddEditExpenseScreen.js
+└── App.js
+
+
+🤝 Contributing
+Feel free to fork the repo and submit a pull request to improve the project!
